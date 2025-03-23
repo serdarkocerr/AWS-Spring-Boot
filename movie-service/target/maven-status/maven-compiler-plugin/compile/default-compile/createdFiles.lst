@@ -1,8 +1,0 @@
-com/serdar/aws/domain/Genre.class
-com/serdar/aws/entity/Movie.class
-com/serdar/aws/controller/MoviceController.class
-com/serdar/aws/repository/MovieRepository.class
-com/serdar/aws/AwsApplication.class
-com/serdar/aws/mapper/EntityDtoMapper.class
-com/serdar/aws/service/MovieService.class
-com/serdar/aws/dto/MovieDto.class

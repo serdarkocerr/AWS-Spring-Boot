@@ -1,8 +1,0 @@
-/Users/nilbusrakocer/Desktop/spring-boot-aws/movie-service/src/main/java/com/serdar/aws/AwsApplication.java
-/Users/nilbusrakocer/Desktop/spring-boot-aws/movie-service/src/main/java/com/serdar/aws/controller/MoviceController.java
-/Users/nilbusrakocer/Desktop/spring-boot-aws/movie-service/src/main/java/com/serdar/aws/domain/Genre.java
-/Users/nilbusrakocer/Desktop/spring-boot-aws/movie-service/src/main/java/com/serdar/aws/dto/MovieDto.java
-/Users/nilbusrakocer/Desktop/spring-boot-aws/movie-service/src/main/java/com/serdar/aws/entity/Movie.java
-/Users/nilbusrakocer/Desktop/spring-boot-aws/movie-service/src/main/java/com/serdar/aws/mapper/EntityDtoMapper.java
-/Users/nilbusrakocer/Desktop/spring-boot-aws/movie-service/src/main/java/com/serdar/aws/repository/MovieRepository.java
-/Users/nilbusrakocer/Desktop/spring-boot-aws/movie-service/src/main/java/com/serdar/aws/service/MovieService.java
